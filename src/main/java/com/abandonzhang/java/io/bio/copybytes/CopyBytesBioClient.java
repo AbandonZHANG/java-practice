@@ -1,4 +1,4 @@
-package com.abandonzhang.io.bio.client;
+package com.abandonzhang.java.io.bio.copybytes;
 
 import java.io.*;
 import java.net.Socket;

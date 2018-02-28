@@ -1,6 +1,6 @@
-package com.abandonzhang.thrift.client;
+package com.abandonzhang.java.thrift.client;
 
-import com.abandonzhang.thrift.server.CountService;
+import com.abandonzhang.java.thrift.server.CountService;
 import org.apache.thrift.TException;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import org.apache.thrift.protocol.TProtocol;

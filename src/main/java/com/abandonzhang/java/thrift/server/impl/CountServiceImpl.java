@@ -1,6 +1,6 @@
-package com.abandonzhang.thrift.server.impl;
+package com.abandonzhang.java.thrift.server.impl;
 
-import com.abandonzhang.thrift.server.CountService;
+import com.abandonzhang.java.thrift.server.CountService;
 import org.apache.thrift.TException;
 
 /**

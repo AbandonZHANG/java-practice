@@ -1,14 +1,12 @@
-package com.abandonzhang.thrift.server.publisher;
+package com.abandonzhang.java.thrift.server.publisher;
 
-import com.abandonzhang.thrift.server.CountService;
-import com.abandonzhang.thrift.server.impl.CountServiceImpl;
+import com.abandonzhang.java.thrift.server.CountService;
+import com.abandonzhang.java.thrift.server.impl.CountServiceImpl;
 import org.apache.thrift.TException;
 import org.apache.thrift.server.TServer;
 import org.apache.thrift.server.TSimpleServer;
 import org.apache.thrift.transport.TServerSocket;
 import org.apache.thrift.transport.TServerTransport;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  * @author zhangzhipeng02@meituan.com.
